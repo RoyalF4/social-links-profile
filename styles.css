@@ -1,0 +1,16 @@
+:root {
+  --primary: #141414;
+  --secondary: #1f1f1f;
+  --button-primary: #333333;
+  --location-text: #c4ec33;
+  --button-hover: #c4f82a;
+}
+
+html {
+  background-color: var(--primary);
+  color: white;
+}
+
+.user-info {
+  background-color: var(--secondary);
+}
